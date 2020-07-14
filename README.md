@@ -1,2 +1,2 @@
-# movie-review-classification
+# Movie reviews classification
 Classified movie reviews as positive, negative and neutral
